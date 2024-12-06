@@ -1,5 +1,4 @@
 # Licence-Plate-Detection-and-Recognition-using-YOLO-V8-EasyOCR
-Here's a sample `README.md` file for your project's code repository:  
 
 ---
 
